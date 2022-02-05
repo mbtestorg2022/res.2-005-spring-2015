@@ -37,27 +37,294 @@ Acknowledgements
 
 The curriculum and workshop were made possible by the [MIT Lincoln Laboratory's Community Outreach initiative](http://www.ll.mit.edu/outreach/), [SolidWorks](http://www.solidworks.com/), and the [Society of Women Engineers](http://societyofwomenengineers.swe.org/). Behind its success was a team of volunteers from MIT Lincoln Laboratory:
 
-| Kimberlee Chang | Cathy Loiselle | Emily Peterson |
-| Robin Havener | Kelly Lafayette | John Solman |
-| Emily Clements | Elizabeth Lukas | Christina Epstein |
-| Owen Guldner | Molly Park | Gavin Lund |
-| Jennifer Falciglia | Debbie Hamilton | Damas Limoge |
-| Dave Granchelli | Chiamaka Porter | Bakari Hassan |
-| Clark Wood | Ninoshka Singh | Cheryl Blomberg |
-| Alexis Prasov | Michelle Jackson | Carole Sundius |
-| Meredith Kelly | Alexandra Berkoff | Allie Stanzione |
-| Carole Sundius | Kimberlee Chang | Christine Chen |
-| Corinna Ellis | Derek Varga | Ed Lyvers |
-| Emily Grosse | Emily Peterson | Elizabeth Kramer |
-| Erin O'connor | Ilya Prigozhin | Jessica Kesner |
-| Joan Boegel | Kendra Kratkiewicz | Lorraine Bernard |
-| Lynne Adamian | Maja Milosavljevic | Richard Marino |
-| Melissa Phelan | Michelle Jackson | Meredith Kelly |
-| Roberta Merino | Sarah Nelson | Sarah Klein |
-| Shannon Roberts | Fred Solman | Suresh Damodaran |
-| Anthony Matt | Tim Wells | Keith Hinrichs |
-| Reagan Middlebrook | Rob Elkind | Bhanu Vadhera |
-| Alyssa Mensch | Elizabeth Kowalski | Rick Frederickson |
-| Olga Mikulina | Jing Wang | Era Vuksani |
-| Fred Waugh | Julie Arloro-Mehta | Todd Brick |
-| Danielle Class | &nbsp; |
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+Kimberlee Chang
+{{< tdclose >}}
+{{< tdopen >}}
+Cathy Loiselle
+{{< tdclose >}}
+{{< tdopen >}}
+Emily Peterson
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Robin Havener
+{{< tdclose >}}
+{{< tdopen >}}
+Kelly Lafayette
+{{< tdclose >}}
+{{< tdopen >}}
+John Solman
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Emily Clements
+{{< tdclose >}}
+{{< tdopen >}}
+Elizabeth Lukas
+{{< tdclose >}}
+{{< tdopen >}}
+Christina Epstein
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Owen Guldner
+{{< tdclose >}}
+{{< tdopen >}}
+Molly Park
+{{< tdclose >}}
+{{< tdopen >}}
+Gavin Lund
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jennifer Falciglia
+{{< tdclose >}}
+{{< tdopen >}}
+Debbie Hamilton
+{{< tdclose >}}
+{{< tdopen >}}
+Damas Limoge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Dave Granchelli
+{{< tdclose >}}
+{{< tdopen >}}
+Chiamaka Porter
+{{< tdclose >}}
+{{< tdopen >}}
+Bakari Hassan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Clark Wood
+{{< tdclose >}}
+{{< tdopen >}}
+Ninoshka Singh
+{{< tdclose >}}
+{{< tdopen >}}
+Cheryl Blomberg
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Alexis Prasov
+{{< tdclose >}}
+{{< tdopen >}}
+Michelle Jackson
+{{< tdclose >}}
+{{< tdopen >}}
+Carole Sundius
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Meredith Kelly
+{{< tdclose >}}
+{{< tdopen >}}
+Alexandra Berkoff
+{{< tdclose >}}
+{{< tdopen >}}
+Allie Stanzione
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Carole Sundius
+{{< tdclose >}}
+{{< tdopen >}}
+Kimberlee Chang
+{{< tdclose >}}
+{{< tdopen >}}
+Christine Chen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Corinna Ellis
+{{< tdclose >}}
+{{< tdopen >}}
+Derek Varga
+{{< tdclose >}}
+{{< tdopen >}}
+Ed Lyvers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Emily Grosse
+{{< tdclose >}}
+{{< tdopen >}}
+Emily Peterson
+{{< tdclose >}}
+{{< tdopen >}}
+Elizabeth Kramer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Erin O'connor
+{{< tdclose >}}
+{{< tdopen >}}
+Ilya Prigozhin
+{{< tdclose >}}
+{{< tdopen >}}
+Jessica Kesner
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Joan Boegel
+{{< tdclose >}}
+{{< tdopen >}}
+Kendra Kratkiewicz
+{{< tdclose >}}
+{{< tdopen >}}
+Lorraine Bernard
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lynne Adamian
+{{< tdclose >}}
+{{< tdopen >}}
+Maja Milosavljevic
+{{< tdclose >}}
+{{< tdopen >}}
+Richard Marino
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Melissa Phelan
+{{< tdclose >}}
+{{< tdopen >}}
+Michelle Jackson
+{{< tdclose >}}
+{{< tdopen >}}
+Meredith Kelly
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Roberta Merino
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Nelson
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Klein
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Shannon Roberts
+{{< tdclose >}}
+{{< tdopen >}}
+Fred Solman
+{{< tdclose >}}
+{{< tdopen >}}
+Suresh Damodaran
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Anthony Matt
+{{< tdclose >}}
+{{< tdopen >}}
+Tim Wells
+{{< tdclose >}}
+{{< tdopen >}}
+Keith Hinrichs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reagan Middlebrook
+{{< tdclose >}}
+{{< tdopen >}}
+Rob Elkind
+{{< tdclose >}}
+{{< tdopen >}}
+Bhanu Vadhera
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Alyssa Mensch
+{{< tdclose >}}
+{{< tdopen >}}
+Elizabeth Kowalski
+{{< tdclose >}}
+{{< tdopen >}}
+Rick Frederickson
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Olga Mikulina
+{{< tdclose >}}
+{{< tdopen >}}
+Jing Wang
+{{< tdclose >}}
+{{< tdopen >}}
+Era Vuksani
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Fred Waugh
+{{< tdclose >}}
+{{< tdopen >}}
+Julie Arloro-Mehta
+{{< tdclose >}}
+{{< tdopen >}}
+Todd Brick
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Danielle Class
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

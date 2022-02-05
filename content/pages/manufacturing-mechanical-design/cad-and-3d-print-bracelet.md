@@ -28,4 +28,15 @@ Files
 
 [Bracelet (.SLDPRT)]({{< baseurl >}}/resources/bracelet)
 
-| ![10572082_697788026980083_36.jpg]({{< resource_file 73db4ce3-a7a6-e390-1bd1-c65acba96322 >}}) | ![10704043_700513933374159_44.jpg]({{< resource_file 4df84bb1-ab3b-d26e-7b2f-6a36d33b2206 >}})
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![10572082_697788026980083_36.jpg]({{< resource_file 73db4ce3-a7a6-e390-1bd1-c65acba96322 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+![10704043_700513933374159_44.jpg]({{< resource_file 4df84bb1-ab3b-d26e-7b2f-6a36d33b2206 >}})
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
