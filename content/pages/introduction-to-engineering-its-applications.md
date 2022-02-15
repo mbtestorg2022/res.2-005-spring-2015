@@ -14,7 +14,24 @@ Workshop Goals
 
 Discover what engineering is, how to apply it, and to gain engineering skills.
 
-| ![A woman holds a microphone and gives a lecture with a slide show.]({{< resource_file 86a90710-ec14-eee4-92a7-58f73a3d887d >}}) | ![A woman holds a 3D printed object up to the camera.]({{< resource_file 0e69868c-d07f-c89f-a42e-4ea8576cdc7d >}}) | ![A girl is holding a boot with wires on it. An adult volunteer is helping her.]({{< resource_file fb765c1b-27ae-1abf-b195-21a2f22916fb >}}) | ![Several girls and women are looking at a computer.]({{< resource_file f020a65e-e87f-dd2a-0aa8-a5ae32857a2f >}}) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![A woman holds a microphone and gives a lecture with a slide show.]({{< resource_file 86a90710-ec14-eee4-92a7-58f73a3d887d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+![A woman holds a 3D printed object up to the camera.]({{< resource_file 0e69868c-d07f-c89f-a42e-4ea8576cdc7d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+![A girl is holding a boot with wires on it. An adult volunteer is helping her.]({{< resource_file fb765c1b-27ae-1abf-b195-21a2f22916fb >}})
+{{< tdclose >}}
+{{< tdopen >}}
+![Several girls and women are looking at a computer.]({{< resource_file f020a65e-e87f-dd2a-0aa8-a5ae32857a2f >}})
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 You can see more photographs from the workshop in the [Image Gallery]({{< baseurl >}}/pages/image-gallery).
 

@@ -6,17 +6,120 @@ title: Workshop Schedule
 uid: ee7a411e-5754-64ae-8fb6-704e38f60bcf
 ---
 
-| TIMES | ACTIVITIES |
-| --- | --- |
-| 7:30 AM to 8:30 AM | Volunteers: Set-up |
-| 8:30 AM to 9 AM | Girls Arrive; Check-in |
-| 9 AM to 9:30 AM | Introduction, icebreaker, and overview of the day; "What is engineering?" lecture |
-| 9:30 AM to 10 AM | Mechanical design lecture with keynote speaker [Katy Olesnavage](http://video.mit.edu/watch/katy-olesnavage-designing-the-next-generation-prosthesis-26034/) (MIT graduate student) |
-| 10 AM to 11 AM | Group 1: Design Bracelet |
-| Group 2: Tech Innovation Lab Tour |
-| 11 AM to 12 PM | Group 2: Design Bracelet |
-| Group 1: Tech Innovation Lab Tour |
-| 12 PM to 1 PM | Lunch and Wearables lecture with keynote speaker Mike Gibson, ([embr labs](http://www.embrlabs.com/)) |
-| 1 PM to 1:30 PM | Introduction to programming and circuits with speaker Gavin Lund (Lincoln Laboratory Instructor) |
-| 1:30 PM to 3:30 PM | Wearable electronics lab |
-| 3:30 PM to 4 PM | Closing remarks, reflections, and raffle
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TIMES
+{{< thclose >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7:30 AM to 8:30 AM
+{{< tdclose >}}
+{{< tdopen >}}
+Volunteers: Set-up
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8:30 AM to 9 AM
+{{< tdclose >}}
+{{< tdopen >}}
+Girls Arrive; Check-in
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9 AM to 9:30 AM
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, icebreaker, and overview of the day; "What is engineering?" lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9:30 AM to 10 AM
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanical design lecture with keynote speaker [Katy Olesnavage](http://video.mit.edu/watch/katy-olesnavage-designing-the-next-generation-prosthesis-26034/) (MIT graduate student)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10 AM to 11 AM
+{{< tdclose >}}
+{{< tdopen >}}
+Group 1: Design Bracelet
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group 2: Tech Innovation Lab Tour
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11 AM to 12 PM
+{{< tdclose >}}
+{{< tdopen >}}
+Group 2: Design Bracelet
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group 1: Tech Innovation Lab Tour
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12 PM to 1 PM
+{{< tdclose >}}
+{{< tdopen >}}
+Lunch and Wearables lecture with keynote speaker Mike Gibson, ([embr labs](http://www.embrlabs.com/))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 PM to 1:30 PM
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to programming and circuits with speaker Gavin Lund (Lincoln Laboratory Instructor)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1:30 PM to 3:30 PM
+{{< tdclose >}}
+{{< tdopen >}}
+Wearable electronics lab
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3:30 PM to 4 PM
+{{< tdclose >}}
+{{< tdopen >}}
+Closing remarks, reflections, and raffle
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
