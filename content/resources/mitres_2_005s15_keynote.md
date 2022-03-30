@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 702bfcbb-df40-1ecd-ff94-3eaa6807cb80
 resourcetype: Document
 title: 'Embr labs: one person''s experience creating a wearable'
 uid: b2d91a63-af81-d60b-b6fe-4d9e493578c8

@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 9d919b61-decd-f95f-4108-ded3bef6c4dc
 resourcetype: Document
 title: Computer Aided Design (CAD)
 uid: fccf1ca9-5fb7-c406-fb84-212a45d48dce

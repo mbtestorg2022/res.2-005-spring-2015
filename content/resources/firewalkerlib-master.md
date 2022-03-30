@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 5f06dcfb-6d8d-0d6f-d266-41a00bf57aaa
 resourcetype: Other
 title: firewalkerlib-master.zip
 uid: 82ed5e01-9350-ac85-79ba-33f2c8a62241

@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 5f06dcfb-6d8d-0d6f-d266-41a00bf57aaa
 resourcetype: Document
 title: Firewalker Fill-in-the-Blank Code Words
 uid: 4bbef5b4-7f56-9175-eb3f-379d17336658

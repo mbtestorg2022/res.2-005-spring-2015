@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 702bfcbb-df40-1ecd-ff94-3eaa6807cb80
 resourcetype: Document
 title: 'Introduction to Circuits '
 uid: 74a79a24-b007-60ae-1ec3-77b219fd5f2f

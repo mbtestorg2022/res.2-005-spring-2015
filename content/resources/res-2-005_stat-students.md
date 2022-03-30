@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 93633c3e-763e-0e99-1be7-a7388bafdbb7
 resourcetype: Image
 title: RES-2-005_stat-students.png
 uid: 8cce48f2-321f-163c-c3f1-a31f5dc853bb

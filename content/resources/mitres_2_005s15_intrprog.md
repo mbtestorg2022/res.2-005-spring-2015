@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 5f06dcfb-6d8d-0d6f-d266-41a00bf57aaa
 resourcetype: Document
 title: Intro to Programming
 uid: b39298fa-3db6-a4c6-7532-e5970347286c

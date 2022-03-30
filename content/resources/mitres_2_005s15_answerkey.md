@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 5f06dcfb-6d8d-0d6f-d266-41a00bf57aaa
 resourcetype: Document
 title: Fill-in-the-Blank Wearable Circuit Code Answer Key
 uid: 6cad5933-534f-d60f-96d7-90ac2537f8f1

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 1f493c87-0fc8-2e0e-70a8-7df3f3a9f17a
 resourcetype: Image
 title: RES-2-005_photo-31.jpg
 uid: d2415059-552d-ce1b-f2b8-01af22cbc083

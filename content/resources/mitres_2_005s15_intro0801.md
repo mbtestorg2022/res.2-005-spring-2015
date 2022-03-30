@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 9d919b61-decd-f95f-4108-ded3bef6c4dc
 resourcetype: Document
 title: 'Lecture 1: Introduction to Manufacturing'
 uid: 979cae18-75e3-201f-8e52-8346c4b04f93

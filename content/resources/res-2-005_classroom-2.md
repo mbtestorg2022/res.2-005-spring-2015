@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 93633c3e-763e-0e99-1be7-a7388bafdbb7
 resourcetype: Image
 title: RES-2-005_classroom-2.jpg
 uid: 082c2a77-e938-74a1-6c2c-4fcc2ff93864

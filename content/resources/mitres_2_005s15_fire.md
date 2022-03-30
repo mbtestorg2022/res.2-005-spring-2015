@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 5f06dcfb-6d8d-0d6f-d266-41a00bf57aaa
 resourcetype: Document
 title: Firewalker Codes
 uid: 29e02fea-86c8-9fe8-e6df-ece298ff757c

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 1bfb99c6-08a6-fb3b-5087-201cd73059c9
 resourcetype: Image
 title: RES-2-005_photo-78.jpg
 uid: 0543f3b8-c234-3256-4a12-816cc2ffe082

@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 5f06dcfb-6d8d-0d6f-d266-41a00bf57aaa
 resourcetype: Other
 title: firewalkerdemo-master.zip
 uid: 61563c20-fe7f-1eef-ec0c-37b4e2650084

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: edea5924-f3ed-6730-a8e8-b5fd50ce3eb2
 resourcetype: Document
 title: Bracelet
 uid: bcbc3d1f-2232-6fb3-d47c-270b857aeb95

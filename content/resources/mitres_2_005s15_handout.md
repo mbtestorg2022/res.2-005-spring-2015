@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 5f06dcfb-6d8d-0d6f-d266-41a00bf57aaa
 resourcetype: Document
 title: ' Activity 4: Fill-in the Blank Wearable Circuit Code'
 uid: 5a823f3d-faa8-1536-e003-6c85852514bf

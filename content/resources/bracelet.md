@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: edea5924-f3ed-6730-a8e8-b5fd50ce3eb2
 resourcetype: Other
 title: bracelet.SLDPRT
 uid: 2f4a23b3-16a9-55b2-f339-3624bcaaf077

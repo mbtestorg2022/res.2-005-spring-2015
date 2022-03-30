@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 702bfcbb-df40-1ecd-ff94-3eaa6807cb80
 resourcetype: Document
 title: Circuits and Code
 uid: 9ebf380d-b630-d0ab-2093-9b4046caf378

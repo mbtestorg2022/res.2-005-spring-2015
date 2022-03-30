@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 0fc487ac-b653-029f-8b26-7f919501013d
 resourcetype: Document
 title: Workshop Flyer
 uid: 0b776509-ed25-d780-5783-7ff726e2712e

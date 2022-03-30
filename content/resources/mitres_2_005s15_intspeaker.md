@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: ''
+parent_uid: 9d919b61-decd-f95f-4108-ded3bef6c4dc
 resourcetype: Document
 title: 'Speaker Notes: Introduction to Manufacturing'
 uid: a3cae0ef-d69a-3dee-7962-6d820d4c960a
