@@ -9,7 +9,17 @@ image_metadata:
     workshop. (Photograph courtesy of Jon Barron, MIT Lincoln Laboratory.)
   credit: Photograph courtesy of Jon Barron, MIT Lincoln Laboratory.
   image-alt: A girl holds up a boot that she is adding lights to.
+learning_resource_types: []
+license: ''
 resourcetype: Image
 title: res-2-005-th.jpg
 uid: 0330290d-8f3c-0230-be89-5fd8d5129bd5
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

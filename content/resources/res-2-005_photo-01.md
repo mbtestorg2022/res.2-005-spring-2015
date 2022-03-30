@@ -7,7 +7,17 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+license: ''
 resourcetype: Image
 title: RES-2-005_photo-01.jpg
 uid: 8576c65e-4e9d-062b-8b05-04257e556e28
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---
